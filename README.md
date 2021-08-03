@@ -25,6 +25,8 @@ Smartface Inc.
   ` npm run watch`
 - Transpile and Build Workspace
   ` npm run build:sf`
+- Transpile and Build Workspace
+  ` npm run build:sf`
 - Build Typescript
   ` npm run build:tsc`
 
