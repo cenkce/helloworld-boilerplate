@@ -24,7 +24,7 @@ Smartface Inc.
 - Watch Mode
   ` npm run watch`
 - Transpile and Build Workspace
-  ` npm run build:sf`
+  ` npm run bu:sf`
 - Transpile and Build Workspace
   ` npm run build:sf`
 - Build Typescript
